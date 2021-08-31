@@ -1,0 +1,28 @@
+._form{
+	margin: 0 auto;
+    max-width: 700px;
+}
+.input__{
+	display: block;
+    width: 100%;
+    margin: 6px 0px 6px 0px;
+    padding: 4px 8px 4px 8px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+}
+.button__{
+	border: 0;
+    width: 100%;
+    background: #459ab3;
+    color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.data_style{
+    padding: 8px;
+    background: #459ab3;
+    margin: 4px 0px 4px 0px;
+    border-radius: 8px;
+    color: white;
+}
