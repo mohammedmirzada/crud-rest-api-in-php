@@ -1,4 +1,4 @@
-# crus-rest-api-in-php
+# crud-rest-api-in-php
 REST API in PHP
 
 Youtube Tutorial:
